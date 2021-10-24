@@ -1,0 +1,8 @@
+[Unit]
+Description=Disable Boost
+
+[Service]
+ExecStart=/home/sudanmerinosu/start/disable-boost.sh
+
+[Install]
+WantedBy=multi-user.target
