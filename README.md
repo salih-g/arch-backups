@@ -36,3 +36,16 @@
 - [Vertical overview](https://extensions.gnome.org/extension/4144/vertical-overview/)
 
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/) 
+
+
+
+- ## Apps
+
+  - Notion
+  - Typora
+  - Mailspring
+  - Stremio
+  - VLC
+  - Gnome Connections
+  - Libre Office
+  - VirtualBox
