@@ -9,12 +9,20 @@
 - ## Terminal
   - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
-  ## Tmux
+  - ```bash
+    # Terminal color theme https://github.com/Mayccoll/Gogh
+    bash -c "$(wget -qO- https://git.io/vQgMr)"
+    # chose 119 and change background color as #1C1E22
+    ```
 
+    
+  
+  ## Tmux
+  
   - ```bash
     pacman -S tmux
     ```
-
+  
   - [.tmux](https://github.com/gpakosz/.tmux)
 
 ## - [Matebook D14 stuff](https://gitlab.com/cscs/linux-on-huawei-matebook-d-14-amd#GRUB)
