@@ -59,3 +59,6 @@
   - VirtualBox
   - Pama
   - Pamac
+
+- ### Notes
+  - Check tlp sensors settings
