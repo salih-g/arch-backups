@@ -57,7 +57,6 @@
   - Gnome Connections
   - Libre Office
   - VirtualBox
-  - Pama
   - Pamac
 
 - ### Notes
